@@ -1,0 +1,32 @@
+
+ img{
+     border-style: solid;
+     border-color:darkblue;
+     border-radius: 2cm;
+     
+ }
+
+.nonu{
+
+    border:solid;
+    background-color: rgb(110, 110, 110);
+    display:flex;
+    /*flex-wrap: wrap;*/
+    justify-content: space-evenly;
+}
+
+h1{
+text-align: center;
+color: grey;
+}
+p,h2,li,h3{
+    text-align: center;
+    color: green;
+
+}
+
+.siddharth{
+    border: solid;
+    background-color: #9edede;
+
+}
